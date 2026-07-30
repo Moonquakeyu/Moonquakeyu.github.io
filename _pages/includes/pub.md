@@ -9,29 +9,29 @@
 
 ## Under Review
 
-- `Cell Press Review` [**SpaGVAE: A Variational Graph Autoencoder with a Structured Spatial Prior for Robust Spatial Domain Identification**](https://github.com/clyty019/SpaGVAE)  
+- [**SpaGVAE: A Variational Graph Autoencoder with a Structured Spatial Prior for Robust Spatial Domain Identification**](https://github.com/clyty019/SpaGVAE)  
   X. Wei\*, **P. Miao\***, et al.  
-  Formal peer review at *Patterns* and *Cell Reports Methods*. [[Code]](https://github.com/clyty019/SpaGVAE)
+  Under review. [[Code]](https://github.com/clyty019/SpaGVAE)
 
-- `iScience` [**Bio-CPD: A Distributional Divergence-based Framework for Single-cell Trajectory Analysis**](https://github.com/clyty019/biocpd/tree/main)  
+- [**Bio-CPD: A Distributional Divergence-based Framework for Single-cell Trajectory Analysis**](https://github.com/clyty019/biocpd/tree/main)  
   X. Wei\*, Y. Wang\*, **P. Miao\***, S. Mo, Y. Dong, R. Chen, H. Li, H. Lai, and S. Qian.  
-  Under review at *iScience*. [[Code]](https://github.com/clyty019/biocpd/tree/main)
+  Under review. [[Code]](https://github.com/clyty019/biocpd/tree/main)
 
-- `IEEE TCYB` **Selective Vision-Language Inspection with Physics-Grounded Reasoning for Wafer Defect Recognition**  
+- **Selective Vision-Language Inspection with Physics-Grounded Reasoning for Wafer Defect Recognition**  
   **P. Miao\***, H. Wang\*, D. Li, J. Li, and P. H. F. Ng.  
-  Under review at *IEEE Transactions on Cybernetics*.
+  Under review.
 
-- `IEEE TAI` **SS-VLM: A Spectral-Symbolic Vision-Language Framework for Auditable Facial Expression Recognition**  
+- **SS-VLM: A Spectral-Symbolic Vision-Language Framework for Auditable Facial Expression Recognition**  
   R. Das\*, **P. Miao\***, and S. Dev.  
-  Under review at *IEEE Transactions on Artificial Intelligence*. [[Code]](https://github.com/Moonquakeyu/Spectral-Symbolic-VLM)
+  Under review. [[Code]](https://github.com/Moonquakeyu/Spectral-Symbolic-VLM)
 
-- `JAMA Network Open` **COMPASS: A Multi-Agent Framework for Clinical Research Protocol Development**  
+- **COMPASS: A Multi-Agent Framework for Clinical Research Protocol Development**  
   X. Wei\*, **P. Miao\***, D. Li, X. Fu, M. Liu, X. Lv, X. Wu, Z. Cai, Z. He, W. Yin, H. Lai, and J. Shi.  
-  Under review at *JAMA Network Open*.
+  Under review.
 
-- `AAAI 2027` **RA-REF: Risk-Calibrated Relation-Evidence Fusion for Zero-Composite Industrial Defect Recognition**  
+- **RA-REF: Risk-Calibrated Relation-Evidence Fusion for Zero-Composite Industrial Defect Recognition**  
   **P. Miao\***, X. Wei\*, D. Li\*, Y. Jiang, L. Hu, and K. Li.  
-  Under review at *AAAI 2027*.
+  Under review.
 
 ## In Preparation
 
@@ -39,6 +39,6 @@
 
 - **EviComp: Evidence-Calibrated Vision-Language Compositional Transfer for Composite Wafer Defect Recognition**  
   **P. Miao\***, X. Wei\*, Y. Li, and D. Li.  
-  In preparation for *IEEE Transactions on Industrial Informatics*.
+  In preparation.
 
 \* Equal contribution.

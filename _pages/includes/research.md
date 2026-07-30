@@ -14,6 +14,7 @@
 
 - Co-developing **COMPASS** for evidence-grounded clinical research protocol design.
 - Co-developing **Bio-CPD** for critical transition detection in single-cell trajectories and **SpaGVAE** for spatial domain identification.
+- Leading **RePlan3D** and **SafePlan3D**.
 
 ## Auditable Affective Computing
 

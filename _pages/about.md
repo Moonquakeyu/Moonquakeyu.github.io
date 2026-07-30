@@ -17,8 +17,6 @@ redirect_from:
 
 {% include_relative includes/research.md %}
 
-{% include_relative includes/projects.md %}
-
 {% include_relative includes/education.md %}
 
 {% include_relative includes/experience.md %}

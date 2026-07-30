@@ -14,7 +14,7 @@
 
 - Co-developing **COMPASS** for evidence-grounded clinical research protocol design.
 - Co-developing **Bio-CPD** for critical transition detection in single-cell trajectories and **SpaGVAE** for spatial domain identification.
-- Leading **RePlan3D** and **SafePlan3D**.
+- Co-developing **RePlan3D** and **SafePlan3D**, two multimodal AI systems for digital dentistry.
 
 ## Auditable Affective Computing
 

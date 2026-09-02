@@ -3,14 +3,14 @@
 
 ## Industrial Intelligence and Evidence-Grounded Vision-Language Models
 
-*The Hong Kong Polytechnic University, 2026 - present*
+*The Hong Kong Polytechnic University, Mar 2026 - Oct 2026*
 
-- Developing **EviComp**, **CrystalComp**, and **PGC-Agent** for compositional wafer defect recognition, uncertainty-aware routing, physics-grounded verification, and auditable industrial reasoning.
-- Building component-level evidence supervision and counterfactual benchmarks for generalization to unseen defect compositions.
+- Developed **EviComp** for reliable spatial evidence learning from heterogeneous industrial inspection annotations.
+- Designed **CrystalComp** for controlled compositional generalization and built **PGC-Agent** for uncertainty-gated, physics-grounded wafer inspection.
 
 ## Clinical-Dental AI and Computational Biology
 
-*Shanghai Ninth People's Hospital, Shanghai Jiao Tong University, and PolyU, 2026 - present*
+*Shanghai Ninth People's Hospital, Shanghai Jiao Tong University, May 2026 - present*
 
 - Co-developing **COMPASS** for evidence-grounded clinical research protocol design.
 - Co-developing **Bio-CPD** for critical transition detection in single-cell trajectories and **SpaGVAE** for spatial domain identification.
@@ -18,6 +18,6 @@
 
 ## Auditable Affective Computing
 
-*University College Dublin, 2024 - 2026*
+*University College Dublin, Dec 2024 - Jun 2026*
 
 - Developed **EmoSense** and **SS-VLM**, combining facial expression recognition, spectral-symbolic evidence, retrieval grounding, and constrained report generation.
